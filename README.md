@@ -7,7 +7,7 @@ Cada link provee información del tiempo restante que les falta a los buses que 
 
 * [Python3](https://www.python.org/download/releases/3.0/).
 
-* Librerias : ```pip install -r requirements.txt```
+* Librerias : ```python -m pip install -r requirements.txt``` (En el directorio del codigo)
 
 ## Ejecución
 
