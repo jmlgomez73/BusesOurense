@@ -9,6 +9,9 @@ Cada link provee información del tiempo restante que les falta a los buses que 
 
 * Librerias : ```python -m pip install -r requirements.txt``` (En el directorio del codigo)
 
+* Chrome Webdriver: Descarguelo desde aquí: https://chromedriver.chromium.org/downloads
+  Después de eso, descomprimalo y coloquelo en el directorio "system32" (C:/Windows/System32/)
+
 ## Ejecución
 
  ```py -u "ruta del archivo listado_buses.py"```
