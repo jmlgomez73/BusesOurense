@@ -5,7 +5,7 @@ Cada link provee información del tiempo restante que les falta a los buses que 
 
 ## Requisitos
 
-* [Python3](https://www.python.org/download/releases/3.0/).
+* [Python3](https://www.python.org/downloads/).
 
 * Librerias : ```python -m pip install -r requirements.txt``` (En el directorio del codigo)
 
